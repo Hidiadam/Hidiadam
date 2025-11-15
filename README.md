@@ -1,9 +1,9 @@
 - 👋: Hi, I’m @Hidiadam
-- 🛸: 20 y/o | UFO Inside™
-- 🏡: Szeged, HU🇭🇺
+- 🛸: 21 y/o & UFO Inside™
+- 🏡: Szeged, HU🇭🇺 | Eindhoven, NL🇳🇱
 - 💻: Tech Stuff Trading
-- 🏎️: 2016 Leaf 24kWh🔌
-- 🎓: Electrical Engineering at SZTE-TTIK
+- ~🏎️: 2016 Leaf 24kWh🔌~
+- 🎓: Electrical Engineering at SZTE-TTIK | Computer Science at TU/e
 - 🤩: ADAS/AD Tech
 
 
